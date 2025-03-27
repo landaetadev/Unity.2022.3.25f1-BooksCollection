@@ -1,7 +1,7 @@
-# Books Collection in 3D - Unity 2022.3.25f1
+# Books Collection in 3D - Unity 2022.3.56f1
 
 ## Content
-Design of individual and group books designed in 3D for Unity scenarios, You just need to copy the Assets/Books folder and you can use it in your project, You can also copy the entire project and upload it to Unity using version 2022.3.25f1
+Design of individual and group books designed in 3D for Unity scenarios, You just need to copy the Assets/Books folder and you can use it in your project, You can also copy the entire project and upload it to Unity using version 2022.3.56f1
 
 
 ## Screenshots
